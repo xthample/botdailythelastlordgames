@@ -1,6 +1,8 @@
 GELAP
 
 
-how to run
+cara menjalankan
 
-npm install axios
+npm install axios,
+
+menjalankan script dengan perintah berikut di terminal node daily-checkin.js,
